@@ -468,6 +468,11 @@ a {
   display: inline-flex;
   cursor: pointer;
 }
+
+.kv-navbar-item:hover .kv-dropdown-list li a i {
+  color: #008fca;
+  cursor: pointer;
+}
 /* section navbar main */
 .kv-navbar-main {
   background-color: #0070f4;
